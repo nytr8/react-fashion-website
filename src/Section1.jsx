@@ -29,7 +29,7 @@ const Section1 = () => {
         </div>
       </div>
       <div className="w-1/2 overflow-hidden rounded-lg">
-        <img src="src/assets/hero-section2-CuCiP9uH.png" alt="" />
+        <img src="public\hero-section2-CuCiP9uH.png" alt="" />
       </div>
     </div>
   );
