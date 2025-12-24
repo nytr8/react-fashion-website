@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(27, 27, 27);
+}
+
+#landing {
+  overflow: hidden;
+}
+
+#landing img {
+  object-fit: cover;
+  object-position: center top;
+  height: 100%;
+  width: 100%;
+
+}
