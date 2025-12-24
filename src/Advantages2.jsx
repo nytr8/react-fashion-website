@@ -5,7 +5,7 @@ const Advantages2 = () => {
     <div className="w-full text-white px-5 py-5 ">
       <div className="w-full gap-5 flex flex-row-reverse">
         <div className="w-1/2 rounded-lg overflow-hidden">
-          <img src="public\advantage-2-B2RydJqn.jpeg" alt="" />
+          <img src="advantage-2-B2RydJqn.jpeg" alt="" />
         </div>
         <div className="w-1/2 flex flex-col gap-5">
           <div className="h-1/2 bg-neutral-800 rounded-lg p-15 flex justify-between gap-5">

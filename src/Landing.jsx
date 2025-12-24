@@ -5,7 +5,7 @@ export const Landing = () => {
     <div id="landing" className="h-[92vh] w-full relative px-5  ">
       <img
         className="rounded-xl "
-        src="public\hero-section1-BjHTfclZ.png"
+        src="/hero-section1-BjHTfclZ.png"
         alt=""
       />
       <div className="text absolute z-10 top-1/2 left-30 w-[90%]">
